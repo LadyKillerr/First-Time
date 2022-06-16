@@ -33,10 +33,10 @@ public:
         cout << " Point math: " << math << endl;
         cout << " Point physic: " << physic << endl;
         cout << " Point chemistry: " << chemistry << endl;
-        cout << " Average: " << avgPoint() <<endl;
+        cout << " Average: Bo doi hehehehe " << avgPoint() <<endl;
     }
     double avgPoint(){
         return (math + physic + chemistry) /3 ;
     }
-    static vector 
+    
 };
